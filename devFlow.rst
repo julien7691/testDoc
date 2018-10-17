@@ -3,7 +3,7 @@
 Development Flow
 ================
 
-VSLIB is a library which allows to develop complex signal processing algorithms. Typically, it is used to develop the base-band part in a communication system, between the A/D decoder / encoderd and the channel decoding / encoding block.
+VSLIB is a library which allows to develop complex signal processing algorithms. Typically, it is used to develop the base-band part in a communication system, between the A/D decoder / encoder and the channel decoding / encoding block.
 
 The main advantage of VSORA methodology is to share the **same code** from the early steps of the algorithm definition to the embedded binary which will run on the final target (SOC).
 
