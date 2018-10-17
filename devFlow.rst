@@ -9,7 +9,7 @@ The main advantage of VSORA methodology is to share the **same code** from the e
 
 We define the different phases of a project, each one being associated with a *platform*:
 
-.. figure:: flow.png
+.. figure:: imag/flow.png
    :name: flow
    :align: center
    :width: 80%
