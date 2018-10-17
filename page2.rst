@@ -4,7 +4,7 @@ Page 2
 ======
 
 
-:ref:`link to new page <development_flow>`
+:ref:`development_flow`
 
 
 OOOOOOO
