@@ -18,5 +18,7 @@ Insert link to :ref:`development_flow`
 
 
 YES!
+
 .. note::
-  This is my note.
+
+   This is my note.
